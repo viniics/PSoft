@@ -1,3 +1,3 @@
-public Class BubbleSorter{
+public class BubbleSorter {
     
 }
